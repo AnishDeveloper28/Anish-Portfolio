@@ -1,7 +1,6 @@
 👨‍💻 About Me — Anish Jain<br><br>
 🚀 Frontend Web Developer<br><br>
 🔗 My Portfolio<br><br>
-<br>
 Hello, I'm Anish Jain, a passionate Front-End Web Developer dedicated to crafting dynamic, intuitive, and visually stunning web experiences.<br>
 I specialize in building responsive websites and web applications that deliver exceptional user experiences across all devices.<br>
 <br>
