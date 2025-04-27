@@ -47,6 +47,39 @@ const Projects: React.FC = () => {
       codeLink: "https://github.com/AnishDeveloper28"
     },
     {
+      "title": "Amazon Homepage Clone",
+      "description": "A modern Amazon homepage UI clone built using HTML, CSS, and JavaScript. This project replicates the header, navigation panel, hero section, shopping categories, and footer of Amazon's website.",
+      "image": "https://images.interestingengineering.com/img/iea/9lwjAzlK6E/amazon-hist-header.jpg",
+      "technologies": ["HTML", "CSS", "JavaScript", "FontAwesome", "CSS Flexbox", "CSS Grid"],
+      "features": [
+        "Amazon-style header with search, sign-in, and cart options",
+        "Navigation panel with category links",
+        "Hero section with promotional banner",
+        "Shopping section featuring product categories",
+        "Footer with links similar to Amazon's website",
+        "Responsive design for desktop and mobile views"
+      ],
+      "demoLink": "https://shopburst.netlify.app/",
+      "codeLink": "https://github.com/AnishDeveloper28",
+    },    
+    {
+      title: "Crypto Currency Tracker",
+      description: "A real-time cryptocurrency tracking application that fetches live market data from the CoinGecko API. Features search, sorting, and key market metric displays for top cryptocurrencies.",
+      image: "https://images.pexels.com/photos/730564/pexels-photo-730564.jpeg?auto=compress&cs=tinysrgb&w=1200", // (You can replace this with a different crypto-related image if you want!)
+      technologies: ["HTML", "CSS", "JavaScript", "CoinGecko API"],
+      features: [
+        "Live cryptocurrency data from CoinGecko API",
+        "Search functionality by name or symbol",
+        "Sorting options for Market Cap and 24h Percentage Change",
+        "Display of Current Price, 24h Price Change, Market Cap, and Trading Volume",
+        "Color indicators for price changes (green = up, red = down)",
+        "Cryptocurrency icons for better visualization",
+        "Responsive design for all devices"
+      ],
+      demoLink: "https://cryptotrakz.netlify.app/",
+      codeLink: "https://github.com/AnishDeveloper28"
+    },
+    {
       title: "Peachy Petal",
       description: "An online shopping experience for a cosmetic brand with secure authentication and payment gateway integration. Features product browsing, reviews, and order tracking.",
       image: "https://images.pexels.com/photos/2536965/pexels-photo-2536965.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
