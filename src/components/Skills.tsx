@@ -8,13 +8,14 @@ type Skill = {
 const Skills: React.FC = () => {
   const skillsRef = useRef<HTMLDivElement>(null);
 
-  const frontendSkills: Skill[] = [
-    { name: 'HTML5', category: 'frontend' },
-    { name: 'CSS3', category: 'frontend' },
-    { name: 'JavaScript', category: 'frontend' },
-    { name: 'React.js', category: 'frontend' },
-    { name: 'Tailwind CSS', category: 'frontend' },
-    { name: 'Bootstrap', category: 'frontend' },
+  const Skills: Skill[] = [
+    { name: 'HTML5', category: 'Skills' },
+    { name: 'CSS3', category: 'Skills' },
+    { name: 'JavaScript', category: 'Skills' },
+    { name: 'React.js', category: 'Skills' },
+    { name: 'Tailwind CSS', category: 'Skills' },
+    { name: 'Bootstrap', category: 'Skills' },
+    { name: 'Wordpress', category: 'Skills' },
   ];
   
   const toolSkills: Skill[] = [
