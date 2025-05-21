@@ -81,7 +81,7 @@ const Skills: React.FC = () => {
         
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-10">
           <div className="bg-white dark:bg-gray-800 p-8 rounded-xl shadow-lg">
-            {renderSkillsSection(Skills, 'Skills')}
+            {renderSkillsSection(Technical Skills, 'Technical Skills')}
           </div>
           
           <div className="bg-white dark:bg-gray-800 p-8 rounded-xl shadow-lg">
