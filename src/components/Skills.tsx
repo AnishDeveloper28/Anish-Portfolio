@@ -8,7 +8,7 @@ type Skill = {
 const Skills: React.FC = () => {
   const skillsRef = useRef<HTMLDivElement>(null);
 
-  const TechnicalSkills: Skill[] = [
+  const Skills: Skill[] = [
     { name: 'HTML5', category: 'Technical Skills' },
     { name: 'CSS3', category: 'Technical Skills' },
     { name: 'JavaScript', category: 'Technical Skills' },
