@@ -165,7 +165,7 @@ const Contact: React.FC = () => {
                   <div>
                     <h4 className="text-sm text-gray-500 dark:text-gray-400">Resume</h4>
                     <a 
-                      href="/Anish-Resume.pdf" 
+                      href="/Anish_Resume.pdf" 
                       download="Anish_Resume.pdf"
                       className="font-medium hover:text-blue-600 dark:hover:text-blue-400"
                       aria-label="Download Anish resume"
